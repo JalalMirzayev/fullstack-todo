@@ -2,7 +2,7 @@
 
 This repository contains a basic template for a [PERN-stack](https://www.youtube.com/watch?v=ldYcgPKEZC8) (PostgreSQL, Express, React and Node) based fullstack webapp. The content is closely following the
 
-<img src="image" alt="Webapp" title="Webapp" width="300"/>
+<img src="https://github.com/JalalMirzayev/fullstack-todo/blob/main/image.png" alt="Webapp" title="Webapp" width="300"/>
 
 ## Requirements for the application
 
